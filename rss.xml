@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CREATIVE 4]]></title>
-        <description><![CDATA[CREATIVE 4]]></description>
+        <title><![CDATA[CREATIVE 4 SOLUTIONS]]></title>
+        <description><![CDATA[CREATIVE 4 SOLUTIONS]]></description>
         <link>https://thegrid.ai/creative-4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 10:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 12:29:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creative-4/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Düringer, No.2]]></title>
+            <description><![CDATA[<article><h1>Düringer, No.2</h1><p>Du bist eine gültige Stimme / Plakat</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6633fa46-fa03-4590-b6d1-e3493691a1a0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/creative-4/duringer-no2/index.html</link>
+            <guid isPermaLink="false">d2f262fb-201b-4664-870c-b437599eb02f</guid>
+            <pubDate>Thu, 24 Mar 2016 12:29:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3629725e-e841-4620-9ca0-23fa8eba4a11.jpg">]]></description>
