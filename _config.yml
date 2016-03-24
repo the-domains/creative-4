@@ -1,6 +1,6 @@
 name: CREATIVE 4
 favicon: null
-layout_spectrum: 0.02672694157809019
+layout_spectrum: 0.25093
 typography_spectrum: 0.7311161598190665
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#e5006e'
+    - '#ab0052'
+    - '#e83626'
+    - '#ff0000'
   brandStrength: 0.9137738591525704
   lightness: 0.5207990389317274
   saturation: 0.2344598053023219
