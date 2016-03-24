@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CREATIVE 4]]></title>
         <description><![CDATA[CREATIVE 4]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creative-4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 10:01:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 10:04:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative-4/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4cd063f-c1c6-428c-b6a6-ecac7af191ae.png">]]></description>
-            <link>undefinedi-bins-mei-president/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3629725e-e841-4620-9ca0-23fa8eba4a11.jpg">]]></description>
+            <link>https://thegrid.ai/creative-4/i-bins-mei-president/index.html</link>
             <guid isPermaLink="false">75a546ed-aaee-4412-bdb8-3f7a40e07ae7</guid>
-            <pubDate>Thu, 24 Mar 2016 10:00:49 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 10:03:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
