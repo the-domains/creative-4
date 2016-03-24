@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CREATIVE 4]]></title>
+        <description><![CDATA[CREATIVE 4]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 10:01:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4cd063f-c1c6-428c-b6a6-ecac7af191ae.png">]]></description>
+            <link>undefinedi-bins-mei-president/index.html</link>
+            <guid isPermaLink="false">75a546ed-aaee-4412-bdb8-3f7a40e07ae7</guid>
+            <pubDate>Thu, 24 Mar 2016 10:00:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
