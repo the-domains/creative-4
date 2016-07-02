@@ -1,28 +1,40 @@
-name: CREATIVE 4 SOLUTIONS
-favicon: null
-layout_spectrum: 0.24682
-typography_spectrum: 0.24682
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.24682
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.2344598053023219
+  brandStrength: 0.9137738591525704
+  rhythmicContrast: 0.25
   brandColors:
     - '#000000'
     - '#e5006e'
     - '#ab0052'
     - '#e83626'
     - '#ff0000'
-  brandStrength: 0.9137738591525704
   lightness: 0.25
-  saturation: 0.2344598053023219
-  rhythmicContrast: 0.25
 purpose: []
+favicon: null
+name: CREATIVE 4 SOLUTIONS
+typography_spectrum: 0.24682
