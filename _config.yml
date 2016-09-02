@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: CREATIVE 4 SOLUTIONS
+name: 4CREATIVE Solutions
 cta:
   bucket: null
   version: null
@@ -37,5 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Guten Tag!
 description: 'Schön, Dich wieder zu sehen.'
 purpose: []
