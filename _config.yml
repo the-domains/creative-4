@@ -1,4 +1,30 @@
-purpose: []
+typography_spectrum: 0.24682
+color:
+  saturation: 0.2344598053023219
+  brandStrength: 0.9137738591525704
+  rhythmicContrast: 0.25
+  brandColors:
+    - '#000000'
+    - '#e5006e'
+    - '#ab0052'
+    - '#e83626'
+    - '#ff0000'
+  lightness: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1971326
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: CREATIVE 4 SOLUTIONS
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -11,30 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.2344598053023219
-  brandStrength: 0.9137738591525704
-  rhythmicContrast: 0.25
-  brandColors:
-    - '#000000'
-    - '#e5006e'
-    - '#ab0052'
-    - '#e83626'
-    - '#ff0000'
-  lightness: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: CREATIVE 4 SOLUTIONS
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.24682
-layout_spectrum: 0.1971326
+description: 'Schön, Dich wieder zu sehen.'
+purpose: []
