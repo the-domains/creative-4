@@ -19,6 +19,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Jan Hosa
+  email: jan.hosa@prosiebensat1puls4.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbadf1ab-525b-4f7c-b74b-dd81b67affff.png
 name: 4CREATIVE Solutions
 cta:
   bucket: null
