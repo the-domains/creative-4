@@ -29,10 +29,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: 'Düringer, Plakat'
-    id: 75a546ed-aaee-4412-bdb8-3f7a40e07ae7
-    type: content
 favicon: null
 collections:
   - index:
