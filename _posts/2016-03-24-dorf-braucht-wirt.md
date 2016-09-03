@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-24T14:13:01.693Z'
-dateModified: '2016-03-24T14:12:33.462Z'
+datePublished: '2016-08-31T14:46:21.885Z'
+dateModified: '2016-03-24T14:13:14.790Z'
 title: Dorf braucht Wirt
 author: []
 sourcePath: _posts/2016-03-24-dorf-braucht-wirt.md
-published: true
 authors: []
 publisher:
   name: null
